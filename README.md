@@ -15,8 +15,13 @@
 - Learning and practicing Rust and Go for backend and crypto projects.
 - Open for commisions (Roblox scripting, bots or tools).
 
-Had an experience in creating and implementing complex systems for my or others games and plugins. 
+Had an experience in creating and implementing complex systems for my or others' games and plugins. 
 
-### 🛠️ Skills 🛠️
+### 🛠️ Currently working on 🛠️
+- [bufferUtils](https://github.com/Larsen-dev/bufferUtils)
+- [collections](https://github.com/Larsen-dev/collections)
+- [stateMachine](https://github.com/Larsen-dev/stateMachine)
+
+### 💼 Skills 💼
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
