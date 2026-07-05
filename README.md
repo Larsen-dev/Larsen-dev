@@ -19,7 +19,6 @@ Had an experience in creating and implementing complex systems for my or others'
 
 ### 🛠️ Currently working on 🛠️
 - [bufferUtils](https://github.com/Larsen-dev/bufferUtils)
-- [collections](https://github.com/Larsen-dev/collections)
 - [stateMachine](https://github.com/Larsen-dev/stateMachine)
 
 ### 💼 Skills 💼
