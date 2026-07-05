@@ -9,6 +9,9 @@
     <img src="https://img.shields.io/badge/Roblox-Developer-red?style=for-the-badge&logo=roblox" alt="Roblox" />
   </a>
 </div>
+<div align="center">
+  <img src="https://ghstats.dev/api/card?username=Larsen-dev&theme=catppuccin&border_radius=1" alt="GitHub Stats Card" />
+</div>
 
 ### 🔭 About me 🔭
 - Currently building Roblox plugins, utilities and games, for e.g. **Industrial City**.
@@ -25,5 +28,3 @@ I have experience in creating and implementing complex systems for my or others'
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-41B4E0?style=for-the-badge&logo=luau&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![GitHubCard](https://githubcard.com/Larsen-dev.svg)
