@@ -11,11 +11,11 @@
 </div>
 
 ### 🔭 About me 🔭
-- Currently building Roblox plugins, utillities and games, for e.g. **Industrial City**.
+- Currently building Roblox plugins, utilities and games, for e.g. **Industrial City**.
 - Learning and practicing Rust and Go for backend and crypto projects.
-- Open for commisions (Roblox scripting, bots or tools).
+- Open for commissions (Roblox scripting, bots or tools).
 
-Had an experience in creating and implementing complex systems for my or others' games and plugins. 
+I have experience in creating and implementing complex systems for my or others' games and plugins. 
 
 ### 🛠️ Currently working on 🛠️
 - [bufferUtils](https://github.com/Larsen-dev/bufferUtils)
