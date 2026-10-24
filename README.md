@@ -17,12 +17,9 @@ Check out my repositories to see what I'm working on!
 
 ## Activity
 
-<div align="center">
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=larsen-dev&theme=default&count_private=true&show_icons=true)
-  
-  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=larsen-dev&layout=compact&theme=default)
-</div>
+| Github Stats | Top Languages |
+|:------------:|:-------------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=larsen-dev&theme=default&count_private=true&show_icons=true"> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=larsen-dev&layout=compact&theme=default"> |
 
 ## 💻 Languages
 
