@@ -15,7 +15,7 @@ I'm still building my experience through personal projects and experimentation. 
 
 Check out my repositories to see what I'm working on!
 
-## Activity
+## 📈 Activity
 
 | Github Stats | Top Languages |
 |:------------:|:-------------:|
