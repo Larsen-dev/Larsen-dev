@@ -19,7 +19,7 @@ Check out my repositories to see what I'm working on!
 
 | Github Stats | Top Languages |
 |:------------:|:-------------:|
-| <img src="https://github-readme-stats.vercel.app/api?username=larsen-dev&theme=default&count_private=true&show_icons=true"> | <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=larsen-dev&layout=compact&theme=default"> |
+|<img src="https://github-stats-extended.vercel.app/api?username=larsen-dev&theme=dark_github">|<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=larsen-dev&layout=compact&theme=dark_github">|
 
 ## 💻 Languages
 
